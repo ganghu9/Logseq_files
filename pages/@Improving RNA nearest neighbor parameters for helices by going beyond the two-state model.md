@@ -22,6 +22,20 @@ links:: [Local library](zotero://select/library/items/AK58TMVW), [Web library](h
 	- [Spasic et al_2018_Improving RNA nearest neighbor parameters for helices by going beyond the.pdf](zotero://select/library/items/JSUIGXUV) {{zotero-linked-file "Spasic et al_2018_Improving RNA nearest neighbor parameters for helices by going beyond the/Spasic et al_2018_Improving RNA nearest neighbor parameters for helices by going beyond the.pdf"}}
 -
 - # Notes
+- ((647a0f76-c939-4f58-b2a0-f618f04c3fda))
+	- The logical contradiction between the application, which we use the parameters derived from two-state model assumption to predict the behaviors of RNA folding, which is non-two-state, and the two-state assumption that the RNA folding is either completely folded or unfolded.
+-
+- ((647a1334-412f-4c09-b621-bb5323a98380))
+-
+- ((647a272b-c630-43bb-86ac-b95cc1080220))
+-
+- ![image.png](../assets/image_1685727045856_0.png)
+-
+- ((647a2799-a815-42a2-a33e-5587d38481ef))
+- significant improvement
+-
+-
+-
 -
 -
 -
