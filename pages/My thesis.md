@@ -1,5 +1,3 @@
 - [[@How RNA folds]]
 - [[@Improving RNA nearest neighbor parameters for helices by going beyond the two-state model]]
-- [[@Improving RNA nearest neighbor parameters for helices by going beyond the two-state model]]
-	- ##### supplementary material
 - [[@Prediction of Hybridization and Melting for Double-Stranded Nucleic Acids]]
