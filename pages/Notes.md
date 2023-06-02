@@ -10,5 +10,71 @@
 	- ###### You need all of this thermodynamic data on tertiary structure interaction, identification and characterization of metal ion binding size. Besides, you also need to apply some mechanical forces to individual RNA molecules and measuring their resulting extensions or deformations.
 	- ##### Force versus extension measurements involve applying mechanical forces to individual RNA molecules and measuring their resulting extensions or deformations. This experimental technique allows researchers to study the mechanical properties and behavior of RNA molecules under various conditions. By manipulating and stretching RNA molecules, researchers can observe how they respond to external forces. The applied force can be measured using specialized techniques such as atomic force microscopy (AFM) or optical tweezers, which can exert controlled forces on the molecule while monitoring its extension. These measurements provide valuable information about the mechanical stability, flexibility, and elasticity of RNA molecules. They can help determine the folding pathways, mechanical unfolding or folding forces, and the role of specific structural elements or interactions in the overall mechanical behavior of RNA. By combining force versus extension measurements with other data, such as thermodynamic information and computational algorithms, researchers can gain insights into the folding kinetics, stability, and functional properties of RNA molecules. This information is crucial for understanding the structure-function relationship of RNA and its role in various biological processes.
 -
+- ((647960f4-a9ad-4163-b93d-950ba1a58f7a))
+	- ##### ^^**The difficulty of Protein prediction**^^ due to two main reasons. The first reason is that the diversity of 20 amino acids leads to numerous potential interactions, which depend on the nature and detailed structure of each residue. Secondly, The energies involved are contextual, which mean that the secondary structures and tertiary structures are dependent on each other, select and constrain each other. Secondary and tertiary structures mutually influence each other, with comparable energy contributions.
+-
+-
+-
+- ((64796486-7c54-425f-a644-0159f17fad04))]
+	- Why the electrostatic interactions of phosphate groups can simplify the RNA folding process. It's because
+		- 1. Theoretical Understanding: Electrostatic interactions are well understood theoretically. The principles of electrostatics provide a solid framework to analyze and predict the behavior of charged particles, such as the phosphate groups in RNA. This understanding helps in studying the folding patterns and stability of RNA molecules.
+		-
+		- 2. Charge Control: Experimentally, the effective charge on the phosphate groups can be controlled by adjusting the ionic strength of the solvent. By manipulating the solvent conditions, researchers can modulate the strength and nature of electrostatic interactions. This control allows for fine-tuning the folding and stability of RNA structures.
+		-
+		- 3. Simplified Interactions: Compared to protein folding, the long-range electrostatic interactions among phosphate groups in RNA tend to be more predictable and simplified. While proteins have diverse amino acid residues with varying interactions, the limited number of phosphate groups in RNA simplifies the interaction landscape. This simplification aids in understanding and modeling the folding pathways of RNA molecules.
+-
+- ((6479661e-3587-4d51-b2fb-05911a56754f))
+	- ##### RNA exhibits four primary secondary structure elements (helices, loops, bulges, and junctions). These elements can exist independently and remain stable. Their energy contributions are separable from tertiary interactions, allowing the energy of tertiary interactions to affect the stability of the secondary structure minimally.
+-
+- ((64796ad8-2f8a-45cd-bd9a-7dac86dc18d4))
+	- ##### This paragraph make a summary of the distinguishable property of these two molecule vividly. Protein and RNA folding face distinct challenges due to how sequence information controls their secondary and tertiary structures. **Proteins exhibit branching information flow between 2D and 3D structures, while RNA follows linear flow. RNA possesses a hierarchical structure with primary sequence determining secondary structure, which then influences tertiary folding.**
+-
+- ((64796cda-8d50-4c1e-a2a2-d0f99cf12302))
+	- ##### The reason why a useful algorithm for predicting RNA folding does not depend on the kinetics of folding but rather on the stability of the structure is because the algorithm aims to determine the most stable conformation of the RNA molecule. The folding pathway, which involves the kinetics and intermediate steps of the folding process, is not necessary for predicting the final stable structure. Instead, the algorithm focuses on analyzing and comparing the relative stabilities of different structural elements to identify the most energetically favorable configuration. By considering the stability of the structures, the algorithm can provide valuable insights into the thermodynamically preferred folding patterns of RNA molecules.
+-
+-
+- ((64796e4e-a4b3-4473-9075-412a9e90b13b))
+	- **^^Important knowledge that loops and bulges will decrease the entropy of the structure. Forming the base pairs will release the energy, which means that enthalpy decreases.^^**
+-
+-
+- ((64797007-ee57-4374-924e-375d1e344282))
+- ((647970d1-481c-4d4c-b086-c8d3520cc897))
+	- **^^Important knowledge that hydrogen bonding can only provide at most 1 kcal/mol and the four nucleotides of loop closure will decrease 4.5 kcal/mol entropy^^**
+-
+-
+- ((647971e8-c468-4794-9939-372731faf196))
+	- ^^**Important knowledge that The time of base pairing formation within small hairpin loops gets shorter**^^
+-
+-
+-
+- ((64797311-2ff3-49de-927e-1c2c56dfbf36))
+	- That makes sense, because if this process will decrease the entropy, the ends won't get close together which is inconsistent with observations.
+-
+- ((647973c1-1ba4-4f15-a1fd-f352843ec7f1))
+	- ^^**Make it more clear. The information flows from primary structure, to the secondary structure, then to the tertiary structure, which is hierarchical. Moreover, the kinetic process of folding from primary structures, to secondary structures, following the rule of thermodynamically favorable, then followed by the formation of tertiary structures, which is sequential.**^^
+-
+- ((64797786-29b0-4fa3-b9a9-1f1beca59c4b))
+	- I think author is presenting that although the final product should be global free energy minimum and the tertiary structure affect the structure, especially the secondary structure limitedly, but when we only consider the presence of the secondary structure, It may not be the finally minimal free energy until the tertiary folding processes get involved.
+-
+-
+- ((64797eec-657a-4a89-b438-73df8f7216b1))
+-
+-
+-
+- ((64798b91-c2a5-427c-92b0-b83f04837b0b))
+-
+-
+-
+- ((64799570-f911-4e9e-839b-af5eeb3eb55c))
+	- ^^Questions: Based on this section -- formation of tertiary structure. I still don't understand that is there any general rule that can summarize or clarify a mechanism that how tertiary structure changes the secondary structure?^^
+-
+-
+- ((647996ae-6b91-4679-a2ff-2fdc07398846))
+	- Important knowledge that Divalent ions have a greater impact on the tertiary folding of RNA compared to the secondary structure. They specifically bind to metal ions, influencing the folding of RNA at a higher level of organization.
+-
+-
+- ((6479982a-8d08-4f50-9d25-caea7c18f691))
+	- G-U base pairs are expected to be binding sites for solvated magnesium ions because they possess specific characteristics that facilitate ion binding. In the major groove of G-U base pairs, there are hydrogen bond acceptors such as the N7 and carbonyl oxygen of G, as well as the 4-carbonyl oxygen of U. These hydrogen bond acceptors can interact with solvated magnesium ions (Mg(H2O)6^2+) and form stable coordination complexes. Therefore, the presence of G-U base pairs provides favorable conditions for the binding of magnesium ions, making them potential sites for ion binding.
+-
 -
 -
