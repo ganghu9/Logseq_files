@@ -1,3 +1,4 @@
 - [[@How RNA folds]]
 - [[@Improving RNA nearest neighbor parameters for helices by going beyond the two-state model]]
 - [[@Prediction of Hybridization and Melting for Double-Stranded Nucleic Acids]]
+- [[@Thermodynamic Parameters for an Expanded Nearest-Neighbor Model for Formation of RNA Duplexes with Watson−Crick Base Pairs]]
