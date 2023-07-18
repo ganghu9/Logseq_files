@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["Research Papers" "Mathews Lab" "My thesis"]
+ :favorites ["Computer Science" "Code Review" "Research Papers" "Mathews Lab" "My thesis"]
 
  ;; Set flashcards interval.
  ;; Expected value:
