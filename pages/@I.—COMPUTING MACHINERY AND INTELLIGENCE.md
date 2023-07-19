@@ -39,6 +39,14 @@ links:: [Local library](zotero://select/library/items/A2ZBTVL4), [Web library](h
   links:: [Local library](zotero://select/library/items/A2ZBTVL4), [Web library](https://www.zotero.org/users/6257385/items/A2ZBTVL4)
 - # Notes
 	- ((64b641e6-0588-48a6-9b5e-55aa8c0c2128))
-		- ###### I am amazed
+		- ###### I am amazed since Turing had that idea and the computer configuration in 1950!!!
 	-
+- ((64b76678-5dea-4288-9e98-afa1f7a9914a))
 -
+- ((64b76ce9-36ee-4f71-809f-313cc1f45ec7)) ((64b76ced-525c-47e3-ae9f-c21a666d19c5))
+	- The paragraph you quoted discusses several key concepts of machine learning, which are:
+	- **Black Box**: In many machine learning models, especially complex ones like neural networks, the internal workings can be difficult to interpret. These models are often referred to as "black boxes" because while we know what goes in (input data) and what comes out (predictions), understanding exactly how the inputs are transformed into outputs can be challenging.
+	- **Predictability** vs Understanding: The paragraph suggests that although the teacher (which could be a human or an algorithm that trains the model) may be able to predict the model's behavior, they might not completely understand what's happening inside the model.
+	- **Departure from Determinism**: While traditional computational algorithms follow a set of deterministic instructions to perform a task, machine learning models have an element of randomness and flexibility. They learn patterns from data instead of following a rigid set of predefined rules.
+	- **Overfitting**: This is when a machine learning model learns the training data too well, to the point that it performs poorly on unseen data. The model has essentially memorized the training data, including its noise and outliers, instead of learning the general patterns. This often results in a model that is too complex, leading to high accuracy on training data but low accuracy on new, unseen data.
+	- **Human Fallibility**: The paragraph suggests that by learning from data, machine learning models might naturally incorporate and reproduce human errors or biases present in the training data, unless explicit measures are taken to prevent this.

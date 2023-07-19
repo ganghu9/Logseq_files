@@ -6,3 +6,23 @@ file-path:: ../assets/Turing_-_1950_-_I.—COMPUTING_MACHINERY_AND_INTELLIGENCE_
   hl-page:: 5
   hl-color:: yellow
   id:: 64b641e6-0588-48a6-9b5e-55aa8c0c2128
+- digital computers fall within the class of discrete state machines
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 64b7106e-1e2a-48d8-9efe-a7f9331ab69a
+- The use of punishments and rewards can at best be a part of the teaching process
+  ls-type:: annotation
+  hl-page:: 25
+  hl-color:: yellow
+  id:: 64b76678-5dea-4288-9e98-afa1f7a9914a
+- An important feature of a learning machine is that its teacher will often be very largely ignorant of quite what is going on inside, although he may still be able to some extent to predict his pupil’s behaviour. This should apply most strongly to the later education of a machine arising from a child-
+  ls-type:: annotation
+  hl-page:: 26
+  hl-color:: yellow
+  id:: 64b76ce9-36ee-4f71-809f-313cc1f45ec7
+- machine of well-tried design (or programme). This is in clear contrast with normal procedure when using a machine to do computations: one’s object is then to have a clear mental picture of the state of the machine at each moment in the computation. This object can only be achieved with a struggle. The view that ‘the machine can only do what we know how to order it to do’,1 appears strange in face of this. Most of the programmes which we can put into the machine will result in its doing something that we cannot make sense of at all, or which we regard as completely random behaviour. Intelligent behaviour presumably consists in a departure from the completely disciplined behaviour involved in computation, but a rather slight one, which does not give rise to random behaviour, or to pointless repetitive loops. Another important result of preparing our machine for its part in the imitation game by a process of teaching and learning is that‘human fallibility’ is likely to be omitted in a rather natural way, i.e. without special ‘coaching’. (The reader should reconcile this with the point of view on pp. 24, 25.) Processes that are learnt do not produce a hundred per cent. certainty of result; if they did they could not be unlearnt.
+  ls-type:: annotation
+  hl-page:: 27
+  hl-color:: yellow
+  id:: 64b76ced-525c-47e3-ae9f-c21a666d19c5
